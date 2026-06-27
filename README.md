@@ -3,12 +3,14 @@
 ## Step 1 - Environment Setup
 
 ### Tools Installed
+
 - **Cursor IDE** - Already installed and in active daily use for content workflow and automation projects.
 - **Claude Code** - Installed via Cursor Extensions (searched "Claude Code", installed, logged in).
 - **Codex** - Installed via Cursor Extensions (searched "Codex", installed, logged in).
 - **GitHub** - Existing account: [github.com/TitashSinha](https://github.com/TitashSinha). Multiple public repos including a full-stack content operations dashboard.
 
 ### Steps Completed
+
 1. Confirmed Cursor IDE was installed and up to date
 2. Added Claude Code extension via Cursor Extensions panel - logged in successfully
 3. Added Codex extension via Cursor Extensions panel - logged in successfully
@@ -19,6 +21,7 @@
 8. Committed and pushed to GitHub
 
 ### Issues I Ran Into
+
 No issues encountered. All steps completed as described.
 
 ---
@@ -26,12 +29,15 @@ No issues encountered. All steps completed as described.
 ## Step 2 - Research Project: AI-Powered SEO Content Production
 
 ### Topic Chosen
+
 **Option 3 - AI-Powered SEO Content Production**
 
 ### Why This Topic
+
 This maps directly to my active work - GEO, AEO, AI-assisted editorial workflows, and SEO content strategy. Choosing a topic I work in daily means I can evaluate sources with genuine judgment, not just collect them.
 
 ### Expert Selection Process
+
 Identified 10 practitioners (not commentators) actively publishing on AI + SEO in 2025-2026. Each was vetted against three criteria:
 
 1. Active practitioner role - agency, product, consultancy, or in-house
@@ -41,16 +47,25 @@ Identified 10 practitioners (not commentators) actively publishing on AI + SEO i
 The final list has strong internal citation density: Kevin Indig and Eli Schwartz co-host a podcast, Eli Schwartz and Ross Hudgens appeared together on a podcast episode in May 2026, Chima Mmeje cites Lily Ray's work directly, and Aleyda Solis and Lily Ray both contribute to Moz Whiteboard Friday. This is a peer cluster, not 10 isolated voices.
 
 ### Research Methodology
-LinkedIn posts were collected using Perplexity's browser and web search capabilities to locate and retrieve recent posts from each expert's LinkedIn profile. Posts were then manually vetted for relevance - only posts directly covering AI search, GEO, AEO, content strategy, or AI content production workflows were retained. Off-topic posts (personal news, generic marketing advice, product launches unrelated to SEO) were discarded.
 
-### Repository Structure
+LinkedIn posts were collected using Perplexity's web search capabilities to locate recent posts from each expert's LinkedIn profile. Direct scraping was avoided as LinkedIn prohibits automated data extraction under its Terms of Service. Posts were then manually vetted for relevance — only posts directly covering AI search, GEO, AEO, content strategy, or AI content production workflows were retained. Off-topic posts (personal news, generic marketing advice, product launches unrelated to SEO) were discarded.
+
+#### YouTube Transcripts
+
+Transcripts were collected programmatically using the Supadata YouTube Transcript API. All 15 videos returned transcripts successfully — none required fallback handling. Transcripts range from ~438 words (short Whiteboard Friday format) to ~12,871 words (long-form podcast interview). Full transcript text is preserved in each file without summarization.
+
+#### Repository Structure
+
 ```
-/research/sources.md         - expert list with annotations
-/research/linkedin-posts/    - posts organized by author
-/research/other/             - additional materials
+/research/sources.md             - expert list with annotations
+/research/linkedin-posts/        - posts organized by author
+/research/youtube-transcripts/   - transcripts organized by video (15 videos, all confirmed)
+/research/other/                 - additional materials
+
 ```
 
 ### Experts Researched
+
 1. Kevin Indig - Growth advisor (Hims, Toast, Reddit); co-host, Contrarian Marketing
 2. Lily Ray - VP SEO Strategy, Amsive; founder, Algorythmic
 3. Ross Hudgens - CEO, Siege Media; author of upcoming Wiley GEO book
