@@ -50,11 +50,11 @@ The final list has strong internal citation density: Kevin Indig and Eli Schwart
 
 #### LinkedIn Posts
 
-LinkedIn posts were collected using Perplexity's web search capabilities to locate recent posts from each expert's LinkedIn profile. Direct scraping was avoided as LinkedIn prohibits automated data extraction under its Terms of Service. Posts were then manually vetted for relevance — only posts directly covering AI search, GEO, AEO, content strategy, or AI content production workflows were retained. Off-topic posts (personal news, generic marketing advice, product launches unrelated to SEO) were discarded.
+LinkedIn posts were collected using Perplexity's web search capabilities to locate recent posts from each expert's LinkedIn profile. Every post was then manually opened, verified, and copied verbatim — not summarized or paraphrased. Direct scraping was avoided as LinkedIn prohibits automated data extraction under its Terms of Service. Posts were then manually vetted for relevance — only posts directly covering AI search, GEO, AEO, content strategy, or AI content production workflows were retained. Off-topic posts (personal news, generic marketing advice, product launches unrelated to SEO) were discarded.
 
 #### YouTube Transcripts
 
-YouTube videos were identified using Perplexity's web search capabilities. Each URL was manually verified before transcript collection. Transcripts were collected programmatically using the Supadata YouTube Transcript API via a PowerShell script (`/scripts/fetch-transcripts.ps1`). All 15 videos returned transcripts successfully — none required fallback handling. Transcripts range from ~438 words (short Whiteboard Friday format) to ~12,871 words (long-form podcast interview). Full transcript text is preserved without summarization.
+YouTube videos were identified using Perplexity's web search capabilities. Each URL was manually verified before transcript collection. Transcripts were collected programmatically using the Supadata YouTube Transcript API via a Python script (`/scripts/fetch-transcripts.py`). All 15 videos returned transcripts successfully — none required fallback handling. Transcripts range from ~438 words (short Whiteboard Friday format) to ~12,871 words (long-form podcast interview). Full transcript text is preserved without summarization.
 
 #### Synthesis
 
@@ -62,7 +62,9 @@ All 25 sources (10 LinkedIn post collections and 15 YouTube transcripts) were lo
 
 ### Repository Structure
 
-/scripts/fetch-transcripts.ps1 - PowerShell script used to collect YouTube transcripts via Supadata API
+/PROCESS.md - process log documenting key decisions, approaches, and course corrections
+
+/scripts/fetch-transcripts.py - Python script used to collect YouTube transcripts via Supadata API
 
 /research/sources.md - expert list with links, dates, annotations, and selection rationale
 
@@ -78,7 +80,7 @@ All 25 sources (10 LinkedIn post collections and 15 YouTube transcripts) were lo
 
 /research/other/tool-stack.md - 30+ tools categorized by function, with practitioner context
 
-/research/other/playbook-outline.md - 10-chapter playbook structure with sources mapped to every section
+/research/other/playbook-outline.md - 10-chapter playbook outline with sources mapped to every section (outline only — full playbook not yet written)
 
 ### Experts Researched
 
