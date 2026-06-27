@@ -48,20 +48,26 @@ The final list has strong internal citation density: Kevin Indig and Eli Schwart
 
 ### Research Methodology
 
+#### LinkedIn Posts
+
 LinkedIn posts were collected using Perplexity's web search capabilities to locate recent posts from each expert's LinkedIn profile. Direct scraping was avoided as LinkedIn prohibits automated data extraction under its Terms of Service. Posts were then manually vetted for relevance — only posts directly covering AI search, GEO, AEO, content strategy, or AI content production workflows were retained. Off-topic posts (personal news, generic marketing advice, product launches unrelated to SEO) were discarded.
 
 #### YouTube Transcripts
 
-Transcripts were collected programmatically using the Supadata YouTube Transcript API. All 15 videos returned transcripts successfully — none required fallback handling. Transcripts range from ~438 words (short Whiteboard Friday format) to ~12,871 words (long-form podcast interview). Full transcript text is preserved in each file without summarization.
+YouTube videos were identified using Perplexity's web search capabilities. Each URL was manually verified before transcript collection. Transcripts were collected programmatically using the Supadata YouTube Transcript API via a Claude Code script. All 15 videos returned transcripts successfully — none required fallback handling. Transcripts range from ~438 words (short Whiteboard Friday format) to ~12,871 words (long-form podcast interview). Full transcript text is preserved without summarization.
 
-#### Repository Structure
+#### Synthesis
+
+All 25 sources (10 LinkedIn post collections and 15 YouTube transcripts) were loaded into NotebookLM for cross-source synthesis. NotebookLM was used to identify dominant themes, surface expert consensus and contradiction, map recurring tactics, and extract key statistics. The raw synthesis output was then refined using Claude to improve accuracy, fix attribution, and elevate the quality of analysis. The resulting documents are in `/research/other/`.
+
+### Repository Structure
 
 ```
-/research/sources.md             - expert list with annotations
-/research/linkedin-posts/        - posts organized by author
-/research/youtube-transcripts/   - transcripts organized by video (15 videos, all confirmed)
-/research/other/                 - additional materials
-
+/research/sources.md              - expert list with annotations and rationale
+/research/linkedin-posts/         - 30 posts organized by author (3 per expert)
+/research/youtube-transcripts/    - 15 transcripts organized by video
+/research/other/key-insights.md   - 7-section synthesis: themes, consensus, tactics, data, principles, open questions
+/research/other/glossary.md       - 20 practitioner terms defined in active use as of mid-2026
 ```
 
 ### Experts Researched
