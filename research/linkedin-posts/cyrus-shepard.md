@@ -23,6 +23,9 @@ But how do you optimize for AI query fan-outs? The process:
 
 I couldn't find a great guide on how to do all this, so I wrote one. Exact tools. Exact process.
 
+> **Research note:** Shepard's 5-step fan-out framework — identify keyword, find sub-queries, determine priority, optimize pages, measure — gives teams a repeatable process for AI citation optimization. Pages ranking for primary query plus one fan-out query are 161% more likely to be cited.
+> *Playbook relevance: Chapter 4 — Structure Content for AI Extraction*
+
 ---
 
 ## Post 2
@@ -50,6 +53,9 @@ Are these good for SEO? Mostly, but not all. SEOs did many of the same things be
 
 Regardless, pay attention to new surfaces. And take Google's advice with a tiny grain of salt. They mostly want to sell us ads.
 
+> **Research note:** Nine specific tactics AI-savvy SEOs now prioritize — including citation gap analysis, entity consistency, and fan-out optimization — go beyond what traditional SEO required. Good SEO is necessary but not sufficient for GEO.
+> *Playbook relevance: Chapter 3 — Build Your Entity Foundation*
+
 ---
 
 ## Post 3
@@ -72,3 +78,6 @@ The process I use:
 5. Score the content against patterns we see working in Google SERPs — commodity vs. non-commodity, brand, experience, first-party info, freshness, task completion, format, etc.
 
 The app uses live Ahrefs data to gather all metrics, find competitors, and evaluate content against predefined criteria.
+
+> **Research note:** Ranking declines in 2026 are rarely technical — Google now rewards non-commodity content with brand, experience, first-party data, and task-completion signals. Shepard built an AI-powered Competitive SEO Pattern Report to identify which content type wins per vertical.
+> *Playbook relevance: Chapter 6 — Produce Non-Commodity Content*

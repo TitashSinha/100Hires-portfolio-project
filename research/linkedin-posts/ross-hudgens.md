@@ -24,6 +24,9 @@ Third, their affiliate model now prices a citation directly. A new senior direct
 
 And a final line that stood out: B2B2C is becoming B2B2Bot. Your primary reader, especially in B2B, is often the agent.
 
+> **Research note:** HubSpot's primary AI KPI is visibility — what LLMs say about a product — not raw citations. HubSpot prices the value of a single citation and integrates it directly into their affiliate bid strategy.
+> *Playbook relevance: Chapter 8 — Measure What Actually Matters*
+
 ---
 
 ## Post 2
@@ -40,6 +43,9 @@ On the B2B side, it was a completely different story: editorial/blog sections we
 The likely reason? In B2B, "BOFU content" is a thing. Alternative and "Best X" pages are more prolific and performative in a way that they aren't in B2C. Those conversion-focused pages get cited more in LLMs, all things equal, and thus are more likely to get clicks as a byproduct.
 
 The strategy indication for B2C? Influence in LLMs comes from other factors like affiliate sites and product pages. Helping better optimize those pages, increasing the authority of your site, and driving mentions within affiliate listings is how you drive LLM influence instead.
+
+> **Research note:** Editorial content drives 25% of AI clicks in B2B but only 7% in B2C, where product pages and affiliate mentions are more influential. B2C brands should focus on external listing mentions rather than owned blog content.
+> *Playbook relevance: Chapter 9 — Segmentation by Company Type*
 
 ---
 
@@ -61,3 +67,6 @@ A big reason B2B converts so much better than B2C is bottom-funnel transactional
 If your conversion rate lags and you don't have that content, this is one more justification to build it.
 
 And if you think AI search is an underwhelming channel for you, it may just be that you don't have the content to support the traffic, so it never feels like one.
+
+> **Research note:** AI traffic converts 34% better than organic on average, 49% better in B2B, driven by bottom-funnel comparison content. Absence of comparison and alternative pages makes AI search feel like an underwhelming channel.
+> *Playbook relevance: Chapter 8 — Measure What Actually Matters*

@@ -22,6 +22,9 @@ Now we all have tasks set up that automatically:
 
 This was my dream for AI — _actual_ automation, genuinely saving us hours of drudgery, and it is finally here.
 
+> **Research note:** Ahrefs built an automated pipeline pulling fresh API data to update charts, tables, and copy in WordPress drafts monthly. Demonstrates AI automation eliminating hours of manual content maintenance without compromising editorial standards.
+> *Playbook relevance: Chapter 7 — Maintain and Refresh Existing Content*
+
 ---
 
 ## Post 2
@@ -36,6 +39,9 @@ I've shared a lot of content about full-bore AI automation, using tons of chaine
 Both Tim Soulo and Mateusz Makosiewicz use AI to support their writing, but they do it very differently — they vibe-write, they talk and joke and ramble to their AI agent, and let the AI refine their creativity and impose structure. So I tried out their process.
 
 And honestly, it was the most fun I've had writing for Ahrefs in ages. All you need is a microphone, a head full of good ideas, and a capable marketing agent.
+
+> **Research note:** Vibe-writing — talking to an AI agent to refine ideas and impose structure — produces content with genuine human voice while benefiting from AI efficiency. Law went from keyword idea to published article in 91 minutes using this approach.
+> *Playbook relevance: Chapter 6 — Produce Non-Commodity Content*
 
 ---
 
@@ -58,3 +64,6 @@ We use generative AI a lot at Ahrefs, and I'm happy to do this because we do not
 Using AI to create content is not a problem — but using AI to create something that is WORSE or DIFFERENT to "normal" content marketing is. "Creating bad content" or "scaling content too soon" is where problems emerge.
 
 If you want to win, use AI to make content that is cooler and better than you were able to do before.
+
+> **Research note:** The danger of AI content is not the tool but using it to create something worse or different from high-quality editorial work. Successful AI use mirrors human editorial standards and adds what AI cannot — data, design, and original perspective.
+> *Playbook relevance: Chapter 10 — Avoid the Traps*

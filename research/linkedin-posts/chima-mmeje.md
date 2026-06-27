@@ -23,6 +23,9 @@ The only brand doing this on the level I imagine right now is HubSpot. Nobody el
 
 Invest in your own channels now. Search in 5 years will yield a lower ROI than what we're seeing today.
 
+> **Research note:** Mmeje cautions against overspending on AI trackers for minimal traffic gains and advocates building an independent content ecosystem instead. Owned channels like lead-gen pipelines deliver stronger long-term ROI as external discovery dwindles.
+> *Playbook relevance: Chapter 8 — Measure What Actually Matters*
+
 ---
 
 ## Post 2
@@ -40,6 +43,9 @@ Everything you're trying to achieve can be done with clustering, whether it's di
 
 The brands dominating AI search are the same brands dominating Google search. Search algorithms may change, but they'll continue to dominate because their content is built on a solid foundation.
 
+> **Research note:** Query fan-out is reframed as topic clustering — brands already dominating through structured content foundations are the same brands dominating AI search. A solid entity cluster foundation outlives algorithm changes.
+> *Playbook relevance: Chapter 3 — Build Your Entity Foundation*
+
 ---
 
 ## Post 3
@@ -52,3 +58,6 @@ Built an internal linking workflow in Claude that makes recommendations based on
 This is great for enterprise sites with thousands of pages that need a solution with at least 90% recommendation accuracy to speed up internal linking while minimizing errors.
 
 I can't code for shit, and I don't use agents (yet). The entire thing is conversational AI using Screaming Frog, Moz, Claude, and Google Sheets.
+
+> **Research note:** Mmeje built a context-aware internal linking workflow using Claude, Screaming Frog, and Google Sheets — no coding required. Demonstrates that conversational AI can solve complex structural SEO tasks at enterprise scale.
+> *Playbook relevance: Chapter 4 — Structure Content for AI Extraction*

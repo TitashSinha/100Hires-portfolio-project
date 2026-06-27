@@ -20,6 +20,9 @@ Don't report "AI impact" as one blended number — split metrics by confidence l
 
 This separation helps you explain what's directly measurable, what's inferred, what's benchmarked, and what's modelled — without overclaiming or underselling AI Search's contribution.
 
+> **Research note:** Solis introduces a 4-layer attribution model — Observed, Own Proxy, Third-Party Proxy, Modelled — for measuring AI search business impact without overclaiming. Splitting metrics by confidence layer prevents misrepresenting AI's contribution to revenue.
+> *Playbook relevance: Chapter 8 — Measure What Actually Matters*
+
 ---
 
 ## Post 2
@@ -35,6 +38,9 @@ Bing is releasing new AI Visibility Insights in Bing Webmaster Tools: Intents, T
 - **Compare Changes Over Time:** Allows publishers to overlay a previous time period directly onto the current reporting view.
 
 Thanks to the Bing team for being leaders in providing the AI search data needed by the search community to better understand and optimize for AI search.
+
+> **Research note:** Bing Webmaster Tools now provides Citation Share, Intent classification, and Topic grouping — the first platform offering structured AI citation data directly to publishers. Allows tracking of how AI reasons across conceptual themes rather than isolated keywords.
+> *Playbook relevance: Chapter 2 — Audit Your Current AI Visibility*
 
 ---
 
@@ -55,3 +61,6 @@ Self-reports are unreliable. Perplexity told in chat that it "couldn't access" t
 When you want to know what an AI actually did with your page, trust the server log, never the chatbot's description of itself.
 
 If your important content is injected by JavaScript — client-side frameworks, lazy-loaded sections, content behind tabs that hydrate on load — then for ChatGPT, Gemini, Claude, Perplexity and Copilot, that content effectively does not exist.
+
+> **Research note:** US AI assistants read raw HTML only — JavaScript-rendered content is invisible during grounding. Server logs are more reliable than chatbot self-reports for understanding how AI actually interacts with a page.
+> *Playbook relevance: Chapter 4 — Structure Content for AI Extraction*

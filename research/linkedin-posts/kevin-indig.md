@@ -21,6 +21,9 @@ Before you tune another title tag, check which sources AI cites in your space an
 
 I broke the citation gap down in the latest Growth Memo.
 
+> **Research note:** Indig explains that AI citations are driven by off-property reputation — models reuse trust from sources they already recognize. Brands should monitor whether the publications and analysts AI already trusts are mentioning them.
+> *Playbook relevance: Chapter 5 — Build Off-Property Authority*
+
 ---
 
 ## Post 2
@@ -38,6 +41,9 @@ Have more questions? Join us live to get them answered too. → https://lnkd.in/
 
 The image says "World's #1 AEO Expert?" I did not write that. ;)
 
+> **Research note:** This post frames AEO as a distinct discipline for modern discovery, sharing research on how companies can get recommended by ChatGPT. Positions AEO as separate from traditional SEO.
+> *Playbook relevance: Chapter 1 — How AI Search Works*
+
 ---
 
 ## Post 3
@@ -49,3 +55,6 @@ Search is becoming a recommendation engine.
 
 [Accompanied by a 9-page document: "How consumers navigate high-stakes purchases in AI Mode"]
 Document link: https://drive.google.com/file/d/1EYM7XTG6Try1NXowabtogsGckxArDVSJ/view?usp=sharing
+
+> **Research note:** Indig shares research on how consumers navigate high-stakes purchases in AI Mode, showing that user behaviour changes significantly when search shifts from links to conversational interfaces.
+> *Playbook relevance: Chapter 9 — Segmentation by Company Type*

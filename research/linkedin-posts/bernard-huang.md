@@ -19,6 +19,9 @@ On one of my sites, more than 80% of visitors weren't even people. They were bot
 
 AI companies are making billions from work they didn't pay for. The people who made that work are getting cut out. So where should we go from here?
 
+> **Research note:** Huang documents the zero-click traffic collapse from a publisher's perspective — one site saw 80%+ of visitors become AI bots scraping content, with human traffic dropping to near zero. High-quality content alone does not protect against this pattern.
+> *Playbook relevance: Chapter 1 — How AI Search Works*
+
 ---
 
 ## Post 2
@@ -31,6 +34,9 @@ Everyone's selling agents as "do the same work with fewer people." It's exactly 
 Agents are a multiplier on judgment, not a replacement for it, and most orgs don't have enough judgment to survive being multiplied.
 
 Hand 20 agents to a mediocre team and you don't get leverage. You get 20x the confident slop, shipped faster than anyone can catch it.
+
+> **Research note:** AI agents multiply human judgment — hand them to a mediocre team and output is 20x the confident slop, shipped faster than anyone can catch it. Human editorial oversight is the prerequisite for agentic content production.
+> *Playbook relevance: Chapter 10 — Avoid the Traps*
 
 ---
 
@@ -48,3 +54,6 @@ The bet is the curve underneath all of it. The agents don't take work off your p
 So the math is simple. When your whole product, your GTM motion, your entire stack runs on agentic rails, you inherit every one of those gains for free. The stack gets better while you sleep.
 
 Get on the rails while getting on them is still a choice.
+
+> **Research note:** Agentic workflows raise the ceiling of what is possible rather than removing workload. Moving GTM motions onto agentic rails allows a company to inherit frontier model improvements automatically.
+> *Playbook relevance: Chapter 1 — How AI Search Works*

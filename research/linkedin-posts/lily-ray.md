@@ -23,6 +23,9 @@ Google is "exploring new types of partnership and value-exchange models. For ins
 
 I will certainly be watching this space closely. Personally, I believe _all_ content creators whose work is used in AI training and/or grounding should be compensated according to how frequently their content is used.
 
+> **Research note:** Ray highlights Google's pilot programs for compensating publishers whose content contributes to AI grounding freshness and factuality. Signals that content quality and update frequency may soon carry direct commercial value.
+> *Playbook relevance: Chapter 7 — Maintain and Refresh Existing Content*
+
 ---
 
 ## Post 2
@@ -64,6 +67,9 @@ The AI Overviews that cite his brand often cite his own website, plus his YouTub
 
 This is a brand that is set up for success. Using what I've been calling the "E-E-A-T Method" sets a brand up for success for years.
 
+> **Research note:** RickSteves.com is used as a case study for E-E-A-T done right — decades of experience-driven content diversified across TV, YouTube, and community forums driving AI citation surges. The brand's success is structural, not tactical.
+> *Playbook relevance: Chapter 6 — Produce Non-Commodity Content*
+
 ---
 
 ## Post 3
@@ -84,3 +90,6 @@ So you write a listicle, name your competitors, call yourself the best, and Goog
 Google seems to have decoupled what it cites from who it recommends, and the recommendations appear to be anchored to actual authority rather than how many times you've called yourself #1.
 
 If AI citations are your main KPI, I'd reconsider. I'd argue that being recommended is much more valuable.
+
+> **Research note:** Ray presents data showing self-promotional listicles get cited as sources while competitors get recommended 69% of the time. AI recommendations are anchored to actual authority, not self-reported rankings.
+> *Playbook relevance: Chapter 10 — Avoid the Traps*

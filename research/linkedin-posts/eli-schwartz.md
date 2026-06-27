@@ -21,6 +21,9 @@ A SaaS founder asking about software gets a completely different answer than an 
 
 There is no average customer anymore in an AI-mediated world. There's just the customer, the actual one, sitting on the other side of the prompt.
 
+> **Research note:** Schwartz predicts real personalization in AI search — the same query will yield different answers based on individual user context, breaking persona-based content strategies. Generic keyword-driven content stops working when AI matches users, not keywords.
+> *Playbook relevance: Chapter 1 — How AI Search Works*
+
 ---
 
 ## Post 2
@@ -35,6 +38,9 @@ Writing teams, media buyers, people who used to spend a week building a campaign
 But what survives, and actually grows, is influence. Trust transfers from a person, not a model. You can automate the brief but you can't automate why someone follows a specific human and believes what they say.
 
 B2B is sitting on this completely untapped. Consumer brands have spent years building creator economies, agencies, payment rails, the whole infrastructure. B2B has none of it. Most B2B "influencer marketing" is still just a sponsored LinkedIn post and a hope.
+
+> **Research note:** Technical marketing tasks are collapsing into prompts, but human influence and trust remain irreplaceable. B2B brands have a major untapped opportunity in building creator-like infrastructure around human experts.
+> *Playbook relevance: Chapter 5 — Build Off-Property Authority*
 
 ---
 
@@ -52,3 +58,6 @@ None of that shows up as "AI traffic" — it shows up as organic or direct. Anot
 A mention isn't a recommendation. AI actively putting your brand forward does roughly twice the work at every step. Get named first, and you're 389% more likely to get searched. Get framed as "best" or "top," and that number jumps past 400%.
 
 I've been saying for months that AEO is a brand problem dressed up as a technical one. This is the data that proves it. You don't win a recommendation with a schema tag.
+
+> **Research note:** Data shows AI brand mentions make users 182% more likely to search for the brand within a week — but this shows up as organic or direct in GA, not AI referral. AEO is a brand authority problem, not a technical one.
+> *Playbook relevance: Chapter 8 — Measure What Actually Matters*

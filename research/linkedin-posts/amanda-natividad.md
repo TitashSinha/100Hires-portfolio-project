@@ -29,6 +29,9 @@ Is it sales-led? Then the first content priority might be the sales asset the te
 
 Early on, marketing needs to earn internal trust. The fastest way to do that is to understand how the company grows, then make that motion work better.
 
+> **Research note:** Marketing strategy should begin by identifying a business's specific growth mechanism — discovery-led, product-led, or sales-led — to prioritize the most impactful content type. Ensures the shortest path to proving marketing value.
+> *Playbook relevance: Chapter 9 — Segmentation by Company Type*
+
 ---
 
 ## Post 2
@@ -49,6 +52,9 @@ Positioning isn't only what you say on your homepage. It's the context the broad
 So don't let AI redefine your positioning. But don't dismiss its mistakes as mere hallucinations, either. Ask what might have produced the association.
 
 AI visibility isn't just a score. It's a reflection of your public record.
+
+> **Research note:** AI "mistakes" in brand positioning reflect the broader market context and public record of a brand. Analyzing what caused the miscategorization is more useful than dismissing it as a hallucination.
+> *Playbook relevance: Chapter 2 — Audit Your Current AI Visibility*
 
 ---
 
@@ -75,3 +81,6 @@ Here's what I'd do next:
 3. Turn the gaps into priorities — that's a to-do list for website copy, content, PR, and category education.
 
 Then run this analysis again in 1-2 months to see what moved.
+
+> **Research note:** Provides a practical workflow for auditing brand perception using AI grading tools to identify accurate vs. inaccurate AI representations. Gaps become a prioritized to-do list for copy, PR, and category education.
+> *Playbook relevance: Chapter 2 — Audit Your Current AI Visibility*
