@@ -82,6 +82,8 @@ All 25 sources (10 LinkedIn post collections and 15 YouTube transcripts) were lo
 
 /research/other/playbook-outline.md - 10-chapter playbook outline with sources mapped to every section (outline only — full playbook not yet written)
 
+/research/other/source-attribution.md - stat traceability log mapping every data point in key-insights.md to its primary source file
+
 ### Experts Researched
 
 1. Kevin Indig - Growth advisor (Hims, Toast, Reddit); co-host, Contrarian Marketing
