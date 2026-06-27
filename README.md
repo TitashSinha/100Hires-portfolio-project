@@ -50,7 +50,7 @@ The final list has strong internal citation density: Kevin Indig and Eli Schwart
 
 #### LinkedIn Posts
 
-LinkedIn posts were collected using Perplexity's web search capabilities to locate recent posts from each expert's LinkedIn profile. Every post was then manually opened, verified, and copied verbatim — not summarized or paraphrased. Direct scraping was avoided as LinkedIn prohibits automated data extraction under its Terms of Service. Posts were then manually vetted for relevance — only posts directly covering AI search, GEO, AEO, content strategy, or AI content production workflows were retained. Off-topic posts (personal news, generic marketing advice, product launches unrelated to SEO) were discarded.
+LinkedIn posts were collected using Perplexity's web search capabilities to locate recent posts from each expert's LinkedIn profile. Every post was then manually opened, verified, and copied verbatim — not summarized or paraphrased. Direct scraping was avoided as LinkedIn prohibits automated data extraction under its Terms of Service. Posts were then manually vetted for relevance — only posts directly covering AI search, GEO, AEO, content strategy, or AI content production workflows were retained. Off-topic posts (personal news, generic marketing advice, product launches unrelated to SEO) were discarded. Each post file includes a research note annotation explaining what specific insight the post contributes and which playbook chapter it supports.
 
 #### YouTube Transcripts
 
