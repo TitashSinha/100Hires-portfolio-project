@@ -1,7 +1,7 @@
 ﻿# Zero Click Search Is Now the Norm
 
 **Channel:** Zero Click Marketing (Amanda Natividad)
-**YouTube URL:** https://www.youtube.com/watch?v=yepb95llLro&t=6s
+**YouTube URL:** https://www.youtube.com/watch?v=yepb95llLro
 
 ---
 
