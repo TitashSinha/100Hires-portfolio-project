@@ -54,7 +54,7 @@ LinkedIn posts were collected using Perplexity's web search capabilities to loca
 
 #### YouTube Transcripts
 
-YouTube videos were identified using Perplexity's web search capabilities. Each URL was manually verified before transcript collection. Transcripts were collected programmatically using the Supadata YouTube Transcript API via a Claude Code script. All 15 videos returned transcripts successfully — none required fallback handling. Transcripts range from ~438 words (short Whiteboard Friday format) to ~12,871 words (long-form podcast interview). Full transcript text is preserved without summarization.
+YouTube videos were identified using Perplexity's web search capabilities. Each URL was manually verified before transcript collection. Transcripts were collected programmatically using the Supadata YouTube Transcript API via a PowerShell script (`/scripts/fetch-transcripts.ps1`). All 15 videos returned transcripts successfully — none required fallback handling. Transcripts range from ~438 words (short Whiteboard Friday format) to ~12,871 words (long-form podcast interview). Full transcript text is preserved without summarization.
 
 #### Synthesis
 
@@ -62,13 +62,23 @@ All 25 sources (10 LinkedIn post collections and 15 YouTube transcripts) were lo
 
 ### Repository Structure
 
-```
-/research/sources.md              - expert list with annotations and rationale
-/research/linkedin-posts/         - 30 posts organized by author (3 per expert)
-/research/youtube-transcripts/    - 15 transcripts organized by video
-/research/other/key-insights.md   - 7-section synthesis: themes, consensus, tactics, data, principles, open questions
-/research/other/glossary.md       - 20 practitioner terms defined in active use as of mid-2026
-```
+/scripts/fetch-transcripts.ps1 - PowerShell script used to collect YouTube transcripts via Supadata API
+
+/research/sources.md - expert list with links, dates, annotations, and selection rationale
+
+/research/linkedin-posts/ - 30 posts organized by author (3 per expert), manually vetted for relevance
+
+/research/youtube-transcripts/ - 15 transcripts organized by video (438–12,871 words each)
+
+/research/other/key-insights.md - 7-section synthesis: themes, consensus, tactics, data, principles, open questions
+
+/research/other/glossary.md - 20 practitioner terms defined in active use as of mid-2026
+
+/research/other/case-studies.md - 20 real-world brand examples with approaches, outcomes, and metrics
+
+/research/other/tool-stack.md - 30+ tools categorized by function, with practitioner context
+
+/research/other/playbook-outline.md - 10-chapter playbook structure with sources mapped to every section
 
 ### Experts Researched
 
